@@ -1,0 +1,17 @@
+{
+  "name": "@bigandy/re-sizer",
+  "version": "0.0.2",
+  "author": "Andrew JD Hudson @bigandy (https://andrewhudson.dev/)",
+  "type": "module",
+  "main": "re-sizer.js",
+  "module": "re-sizer.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "npm:publish": "npm publish --access=public"
+  },
+  "devDependencies": {
+    "vite": "4.1.4"
+  }
+}
