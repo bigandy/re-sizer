@@ -1,6 +1,6 @@
 {
   "name": "@bigandy/re-sizer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Andrew JD Hudson @bigandy (https://andrewhudson.dev/)",
   "type": "module",
   "main": "re-sizer.js",
@@ -16,5 +16,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bigandy/re-sizer.git"
-  },
+  }
 }
